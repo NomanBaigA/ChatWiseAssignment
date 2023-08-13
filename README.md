@@ -17,4 +17,4 @@ API to use:
 https://jsonplaceholder.typicode.com/photos
 Use ‘url’ key to show image
 
-You can see the pdf for the same details And an app screen record is also provided.
+## You can see the pdf for the same details And an app screen record is also provided.
